@@ -22,6 +22,7 @@ fun main() {
 
 }
 
+// Расчет размера комиссии за услуги сервиса
 fun calculateFee(
 
     amount: Int,
